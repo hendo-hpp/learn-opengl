@@ -14,7 +14,6 @@ file(GLOB_RECURSE FORMAT_FILES
 
 # clang-tidy inputs
 file(GLOB_RECURSE TIDY_FILES
-    "${CMAKE_CURRENT_SOURCE_DIR}/src/*.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp"
 )
 

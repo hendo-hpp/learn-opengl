@@ -35,6 +35,6 @@ AllowShortLoopsOnASingleLine: false
 
 PointerAlignment: Right
 
-# sort include blocks
+# includes
 SortIncludes: true
 IncludeBlocks: Regroup
